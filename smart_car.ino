@@ -1,8 +1,11 @@
 
 /*
    Smart car
+   
+   The car is controlled with an infra-red remote, but it also has self-driving capabilities. The self-driving mode, I decided to make it with one objective in mind, keep on going without getting stuck in simple scenarios. The ideas behind the obstacle avoidance capabilities are based on trigonometry and random decisions.
 
   Ramon A. Delgado
+  www.radelgado.com
 */
 
 
